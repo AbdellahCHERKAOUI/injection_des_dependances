@@ -1,2 +1,4 @@
-package org.example.framework.annotation;public class Component {
+package org.example.framework.annotation;
+
+public class Component {
 }

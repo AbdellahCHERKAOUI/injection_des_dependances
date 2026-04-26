@@ -1,2 +1,4 @@
-package org.example.presentation;public class PresSpringAnnotation {
+package org.example.presentation;
+
+public class PresSpringAnnotation {
 }

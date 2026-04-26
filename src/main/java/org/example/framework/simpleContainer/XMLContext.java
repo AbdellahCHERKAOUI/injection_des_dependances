@@ -1,2 +1,4 @@
-package org.example.framework.simpleContainer;public class XMLContext {
+package org.example.framework.simpleContainer;
+
+public class XMLContext {
 }

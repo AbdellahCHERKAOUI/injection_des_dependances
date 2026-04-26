@@ -8,7 +8,7 @@ public class PresSpringXML {
     public static void main(String[] args) {
 
         ApplicationContext context =
-                new ClassPathXmlApplicationContext("org/example/config/config.xml");
+                new ClassPathXmlApplicationContext("config.xml");
 
         IMetier metier = context.getBean(IMetier.class);
 
