@@ -4,7 +4,7 @@ import org.example.dao.DaoImpl;
 import org.example.dao.IDao;
 import org.example.metier.IMetier;
 import org.example.metier.MetierImpl;
-
+//injection statique
 public class Pres1 {
     public static void main(String[] args) {
 

@@ -5,7 +5,7 @@ import org.example.metier.IMetier;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-
+//injection dynamique
 public class Pres2 {
     public static void main(String[] args) throws Exception {
 

@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aabc5ffa-28d2-4561-8671-3b2b0d6a50e6" name="Changes" comment="injection des dependences d'une maniere dynamique">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/framework/annotation/Autowired.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/framework/annotation/Autowired.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/framework/annotation/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/framework/annotation/Component.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/framework/simpleContainer/XMLContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/framework/simpleContainer/XMLContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/presentation/PresSpringAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/presentation/PresSpringAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/presentation/PresSpringXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/presentation/PresSpringXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/framework/annotation/Autowired.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/framework/annotation/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/framework/simpleContainer/XMLContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/presentation/PresSpringAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/presentation/PresSpringXML.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
       <updated>1777115367750</updated>
       <workItem from="1777115369033" duration="1756000" />
       <workItem from="1777151661444" duration="2288000" />
-      <workItem from="1777192712402" duration="2153000" />
+      <workItem from="1777192712402" duration="3293000" />
     </task>
     <task id="LOCAL-00001" summary="injection des dependences d'une maniere statique">
       <created>1777196008366</created>
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1777196091494</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="injection des dependences d'une maniere dynamique">
+      <created>1777196156702</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777196156702</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
